@@ -1,0 +1,10 @@
+#hack-btn {
+    color: black;
+    width: 50px;
+    height: 30px;
+    position: fixed;
+    top: 50%;
+    margin-top: -15px;
+    margin-left: 250px;
+    left: 50%;
+}
